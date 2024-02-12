@@ -2,7 +2,6 @@
 
 * HTML
 * CSS
-* JavaScript
 
 ## Links
 
